@@ -1,0 +1,10 @@
+﻿Pokemon,Move 1,Move 2,Move 3,Move 4,Exp,Hp,Att,Def,SpA,SpD,Speed,Catch Rate,Type,DexNo
+bulbasaur,Tackle,Vine Whip,Razor Leaf,Take Down,64,45,49,49,65,65,45,45,Grass/Poison,1
+ivysaur,Tackle,Razor Leaf,Take Down,Double Edge,142,60,62,63,80,80,60,45,Grass/Poison,2
+venusaur,Petal Blizzard,Petal Dance,Take Down,Solar Beam,236,80,82,83,100,100,80,45,Grass/Poison,3
+charmander,Scratch,Ember,Fire Fang,Slash,62,39,52,43,60,50,65,45,Fire,4
+charmeleon,Ember,Dragon Breath,Slash,Flamethrower,142,58,64,58,80,65,80,45,Fire,5
+charizard,Dragon Claw,Heat Wave,Flamethrower,Flare Blitz,240,78,84,78,109,85,100,45,Fire/Flying,6
+squirtle,Tackle,Water Gun,Rapid Spin,Bite,63,44,48,65,50,64,43,45,Water,7
+wartortle,Tackle,Rapid Spin,Bite,Water Pulse,142,59,63,80,65,80,58,45,Water,8
+blastoise,Flash Cannon,Aqua Tail,Hydro Pump,Skull Bash,239,79,83,100,85,105,78,45,Water,9
